@@ -72,6 +72,10 @@ Remote IP: 20.59.87.227 | Port: 443 | Protocol: TCP
 Reason: High connection count to 20.59.87.227
 Geo: United States - Microsoft Azure Cloud (westus)
 
+### 📸 Example Output
+
+![Screenshot](rogue_packet_watchdog/screenshot.png)
+
 
 ### 📂 Location
 `/rogue_packet_watchdog/rogue_packet_watchdog.py`
