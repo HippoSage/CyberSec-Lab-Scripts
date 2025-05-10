@@ -4,10 +4,11 @@
 
 ## 📫 About Me
 I’m transitioning into cybersecurity with a Master’s in Information Systems (March 2026) and certifications including ISC2 CC (May 2025) and SSCP (June 2025). My goal is to contribute to a SOC or SecOps team while continuing to grow into cloud and system security.
+---
+Connect on [LinkedIn](http://linkedin.com/in/philliplgross) or reach me at `philgross22@icloud.com`.
 
 ---
 
-Connect on [LinkedIn](http://linkedin.com/in/philliplgross) or reach me at `philgross22@icloud.com`.
 # CyberSec-Lab-Scripts
 A collection of basic cybersecurity scripts in Bash, Python, and PowerShell
 # CyberSec-Lab-Scripts
