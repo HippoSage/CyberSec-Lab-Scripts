@@ -52,6 +52,10 @@ Connect on [LinkedIn](http://linkedin.com/in/philliplgross) or reach me at `phil
 
 ## 🧠 rogue_packet_watchdog
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 **Rogue Packet Watchdog** is a custom-built Python script that monitors live network traffic for suspicious behavior, such as:
 
 - Connections to uncommon ports
