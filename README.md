@@ -48,4 +48,36 @@ Monitors Linux system logs for USB device insertions and logs alerts to a local 
 I’m transitioning into cybersecurity with a Master’s in Information Systems (March 2026) and certifications including ISC2 CC (May 2025) and SSCP (June 2025). My goal is to contribute to a SOC or SecOps team while continuing to grow into cloud and system security.
 
 Connect on [LinkedIn](http://linkedin.com/in/philliplgross) or reach me at `philgross22@icloud.com`.
+---
+
+## 🧠 rogue_packet_watchdog
+
+**Rogue Packet Watchdog** is a custom-built Python script that monitors live network traffic for suspicious behavior, such as:
+
+- Connections to uncommon ports
+- Excessive connections to a single IP (possible C2 or brute-force behavior)
+- Geolocation of remote IPs using public APIs
+
+### 🔍 Features
+
+- Real-time detection using `psutil`
+- Logs alerts to `suspicious_connections.csv`
+- Integrates with `ip-api.com` to identify country + organization
+- Flag logic based on port usage, volume, and source
+
+### 🧪 Sample Alert
+
+[!] 2025-05-10 15:47:46 - Suspicious connection detected:
+Remote IP: 20.59.87.227 | Port: 443 | Protocol: TCP
+Reason: High connection count to 20.59.87.227
+Geo: United States - Microsoft Azure Cloud (westus)
+
+
+### 📂 Location
+`/rogue_packet_watchdog/rogue_packet_watchdog.py`
+
+### 🔧 Future Improvements
+- Country-based filtering
+- Auto-blocking IPs via Windows Firewall
+- Optional email alerting or dashboard output
 
