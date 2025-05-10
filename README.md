@@ -26,6 +26,11 @@ Built as part of my transition into cybersecurity, this repo showcases practical
 - **isolate_machine.ps1**  
   PowerShell script to isolate a compromised Windows host by blocking all network connections via firewall rules.
 
+## 🧪 SIEM & Endpoint Monitoring
+
+### `usb_insert_detector.sh`
+Monitors Linux system logs for USB device insertions and logs alerts to a local file. Useful in SOC/Blue Team environments for identifying unauthorized devices.
+
 ---
 
 ## 🎯 Skills Demonstrated
@@ -42,5 +47,5 @@ Built as part of my transition into cybersecurity, this repo showcases practical
 ## 📫 About Me
 I’m transitioning into cybersecurity with a Master’s in Information Systems (March 2026) and certifications including ISC2 CC (May 2025) and SSCP (June 2025). My goal is to contribute to a SOC or SecOps team while continuing to grow into cloud and system security.
 
-Connect on [LinkedIn](http://linkedin.com/in/philliplgross) or reach me at `thanos2208@outlook.com`.
+Connect on [LinkedIn](http://linkedin.com/in/philliplgross) or reach me at `philgross22@icloud.com`.
 
