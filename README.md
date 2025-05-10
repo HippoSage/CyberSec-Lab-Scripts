@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 # CyberSec-Lab-Scripts
 A collection of basic cybersecurity scripts in Bash, Python, and PowerShell
 # CyberSec-Lab-Scripts
