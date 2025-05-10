@@ -1,3 +1,13 @@
+# -----------------------------------------------------------------------------
+# Script: VirusTotal Hash Lookup
+# Author: By Gross
+# Description: Uses VirusTotal API to fetch threat info on a given file hash.
+# Certifications: ISC2 CC, SSCP (in progress)
+# Education: MS in Information Systems (Expected March 2026)
+# GitHub: github.com/sarcasticwitwizard
+# LinkedIn: linkedin.com/in/philliplgross
+# -----------------------------------------------------------------------------
+
 import requests
 
 API_KEY = "your_api_key_here"
