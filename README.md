@@ -2,6 +2,12 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
+## 📫 About Me
+I’m transitioning into cybersecurity with a Master’s in Information Systems (March 2026) and certifications including ISC2 CC (May 2025) and SSCP (June 2025). My goal is to contribute to a SOC or SecOps team while continuing to grow into cloud and system security.
+
+---
+
+Connect on [LinkedIn](http://linkedin.com/in/philliplgross) or reach me at `philgross22@icloud.com`.
 # CyberSec-Lab-Scripts
 A collection of basic cybersecurity scripts in Bash, Python, and PowerShell
 # CyberSec-Lab-Scripts
@@ -46,12 +52,6 @@ Monitors Linux system logs for USB device insertions and logs alerts to a local 
 - Log analysis
 - Incident containment
 
----
-
-## 📫 About Me
-I’m transitioning into cybersecurity with a Master’s in Information Systems (March 2026) and certifications including ISC2 CC (May 2025) and SSCP (June 2025). My goal is to contribute to a SOC or SecOps team while continuing to grow into cloud and system security.
-
-Connect on [LinkedIn](http://linkedin.com/in/philliplgross) or reach me at `philgross22@icloud.com`.
 ---
 
 ## 🧠 rogue_packet_watchdog
